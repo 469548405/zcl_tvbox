@@ -4,7 +4,7 @@
       "key": "py_jieyingshi",
       "name": "界影视(T3)",
       "type": 3,
-      "api": "http://192.168.2.2:8081/vod_jieyingshi.py",
+      "api": "https://raw.githubusercontent.com/zcl668/zcl_tvbox/main/ok_live_py/vod_jieyingshi.py",
        "searchable": 1,
        "quickSearch": 0,
        "filterable": 0,
@@ -52,4 +52,5 @@
   
   
  ]
+
 }
