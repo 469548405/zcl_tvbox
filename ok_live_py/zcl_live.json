@@ -4,10 +4,9 @@
   {
       "name": "快直播(python)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/zcl668/zcl_tvbox/main/ok_live_py/live_kzb.py",
-      "ext": {
-        "host": "https://jzb5kqln.huajiaedu.com"
-      }
+      "api": "http://192.168.2.2:8081/ok_live_py/live_kzb.py",
+      "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
+      
     },
     {
       "name": "(翻墙)BeeSport直播(python)",
