@@ -1,20 +1,47 @@
 {
-  "sites":[
-  {
-      "key": "py_AiDou",
-      "name": "(翻墙)(18+)AiDou(T4)",
+  "sites":[ 
+   {
+      "key": "py_jieyingshi",
+      "name": "界影视(T3)",
+      "type": 3,
+      "api": "http://192.168.2.2:8081/ok_python_live/vod_jieyingshi.py",
+       "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 0,
+       "changeable": 0
+    },
+     {
+      "key": "py_OleVod",
+      "name": "欧乐影院(T4)",
       "type": 4,
-      "api": "l",
+      "api": "https://py.doube.eu.org/spider?site=OleVod",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
+      "changeable": 0
     },
-	{
+    {
+  "key": "py_BadNews",
+  "name": "BadNews(T4)",
+  "type": 4,
+  "api": "https://py.doube.eu.org/spider?site=BadNews",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "style": {"type": "rect", "ratio": 1.5}
+  },
+      {
+      "key": "py_rou",
+      "name": "(翻墙)(18+)Rou(T3)",
+      "type": 3,
+      "api": "http://192.168.2.2:8081/ok_python_live/vod_rou.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+  },
+  {
       "key": "py_Miss",
       "name": "(翻墙)(18+)MissAV(T4)",
       "type": 4,
@@ -24,24 +51,16 @@
       "filterable": 0,
       "changeable": 0
     },
-	 {
-      "key": "py_rou",
-      "name": "(翻墙)(18+)Rou(T3)",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/zcl668/zcl_tvbox/main/ok_live_py/vod_rou.py",
+    {
+      "key": "py_AiDou",
+      "name": "(翻墙)(18+)AiDou(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=AiDou",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "changeable": 0
-    }
-
-
-
-  
-  
-  
-  
-  ]
-}
-
-
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
