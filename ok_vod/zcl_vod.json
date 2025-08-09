@@ -19,9 +19,9 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-      },
+      }, 
     {
-    "key": "py_Dm84",
+      "key": "py_Dm84",
       "name": "🍋‍🟩动漫巴士(T4)",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=Dm84",
