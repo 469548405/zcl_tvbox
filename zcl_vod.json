@@ -85,7 +85,7 @@
       "api": "./ok_live_py/Miss.py",
       "ext": {
       "site": "https://missav.ai",
-      "cfgo":"/cf-proxy-linux-arm64",
+      "cfgo":"./drpy_js/cf-proxy-linux-arm64",
       "plp": "",
       "proxy": {
       "http": "",
