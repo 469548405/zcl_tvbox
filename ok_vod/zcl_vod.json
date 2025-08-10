@@ -4,7 +4,7 @@
       "key": "py_jieyingshi",
       "name": "🍎界影视(T3)",
       "type": 3,
-      "api": "ok_live_py/vod_jieyingshi.py",
+      "api": "zcl_tvbox/ok_live_py/vod_jieyingshi.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
