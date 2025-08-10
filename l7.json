@@ -141,8 +141,8 @@
             "cfgo": "./drpy_js/cf-proxy-linux-arm64",
             "plp": "",
             "proxy": {
-            "http": "",
-            "https": ""}}
+            "http": "socks5://192.177.139.220:9000",
+            "https": "socks5://192.177.139.220:9000"}}
           },
         {
             "key": "lav",
