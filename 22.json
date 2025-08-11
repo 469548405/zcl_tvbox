@@ -165,11 +165,11 @@
             "api": "./drpy_js/miss.py",
             "ext": {
                 "site": "https://missav.ai",
-                "cfgo": "http://127.0.0.1:9978/file/drpy_js/cf-proxy-linux-arm64",
+                "cfgo": "http://192.168.2.2:8801/ok_live_py/cf-proxy-linux-arm64",
                 "plp": "",
                 "proxy": {
-                    "http": "",
-                    "https": ""
+                    "http": "http:127.0.0.1:1072",
+                    "https": "http:127.0.0.1:1072"
                 }
             }
         },
