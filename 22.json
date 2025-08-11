@@ -142,7 +142,7 @@
             "cfgo": "./drpy_js/cf-proxy-linux-arm64",
             "plp": "",
             "proxy": {
-            "http": "socks5://192.177.139.220:9000",
+            "http": "http://127.0.0.1:1072",
             "https": "socks5://192.177.139.220:9000"}}
           },
         {
