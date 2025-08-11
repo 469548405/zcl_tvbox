@@ -4,7 +4,7 @@
       "key": "py_AiDou",
       "name": "(翻墙)(18+)AiDou(T4)",
       "type": 4,
-      "api": "l",
+      "api": "https://py.doube.eu.org/spider?site=AiDou",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
