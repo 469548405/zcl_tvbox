@@ -168,8 +168,8 @@
                 "cfgo": "./drpy_js/cf-proxy-linux-arm64",
                 "plp": "",
                 "proxy": {
-                    "http": "http:127.0.0.1:1072",
-                    "https": "http:127.0.0.1:1072"
+                    "http": "",
+                    "https": ""
                 }
             }
         },
