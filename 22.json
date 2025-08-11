@@ -1,6 +1,6 @@
 
 {
-    "spider": "./pg.jar,
+    "spider": "./pg.jar",
     "logo": "./Q.jpg",
     "sites": [
         {
