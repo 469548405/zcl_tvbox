@@ -174,7 +174,7 @@
             }
         },
         {
-            "key": "lav","
+            "key": "lav",
             "name": "lav",
             "type": 3,
             "api": "./drpy_js/lav.py",
