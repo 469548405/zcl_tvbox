@@ -72,7 +72,7 @@ class TvSmt:
     def __init__(self):
         self.name = 'TvSmt'
         self.headers = {'User-Agent': 'Mozilla/5.0', 'CLIENT-IP': '127.0.0.1', 'X-FORWARDED-FOR': '127.0.0.1'}
-        self.h = ['50.7.92.106', '50.7.220.170', '67.159.6.34', '198.16.100.186', '50.7.234.10']
+        self.h = ['66.90.99.154','50.7.92.106', '50.7.220.170', '67.159.6.34', '198.16.100.186', '50.7.234.10']
         pass
 
     def get_tv_list(self, host):
@@ -109,3 +109,4 @@ class TvSmt:
 
 if __name__ == '__main__':
     pass
+
