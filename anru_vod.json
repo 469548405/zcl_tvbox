@@ -153,11 +153,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-      "server": "http://192.168.2.2:2345",
-      "username": "xiaoya",
-      "password": "1234",
-      "thread": 0 //thread 大于0开启多线程，thread为线程数},
-      "changeable": 1}
+            "server": "http://192.168.2.2:2345",
+            "username": "xiaoya",
+            "password": "1234",
+            "thread": 0 //thread 大于0开启多线程，thread为线程数
+        },
+        "changeable": 1
+      
     }
   ]
 
